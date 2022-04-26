@@ -10,6 +10,6 @@ Output:
 ```
 
 Requirements:
-Selenium
-BeautifulSoup
-Chrome Browser (Installed)
++ Selenium
++ BeautifulSoup
++ Chrome Browser (Installed)
